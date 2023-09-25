@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VITS-fast-fine-tuning-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VITS-fast-fine-tuning-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
